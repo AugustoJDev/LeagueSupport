@@ -8,7 +8,8 @@ League Support é um programa desenvolvido para ajudar jogadores que querem faci
 
 <a name="download"></a>
 ### 🎁 Download
-Para realizar o download do programa, basta [CLICAR AQUI](https://www.mediafire.com/file/u7gevii3tv5dbrw/LeagueSupport.rar/file) que será redirecionado a página de download.
+Para realizar o download do programa, basta clicar no botão abaixo que você será redirecionado a página de download.
+[<img src="https://www.atepi.com.br/wp-content/uploads/2019/04/bot%C3%A3o-download.png">](https://www.mediafire.com/file/u7gevii3tv5dbrw/LeagueSupport.rar/file)
 
 <a name="features"></a>
 ### 📜 Features
@@ -25,4 +26,6 @@ Para realizar o download do programa, basta [CLICAR AQUI](https://www.mediafire.
 
 <a name="ads"></a>
 ### ⚠ Remover ADS
-Deseja remover os anúncios que aparecem ao abrir o programa? Realize um donate acima de R$10,00 que a versão sem os anúncios será disponibilizada para você. [DONATE AQUI](https://app.picpay.com/user/winchesterdeveloper)
+Deseja remover os anúncios que aparecem ao abrir o programa? Realize um donate acima de R$10,00 que a versão sem os anúncios será disponibilizada para você. 
+
+[<img src="https://i.imgur.com/h6CM9tR.jpg">](https://app.picpay.com/user/winchesterdeveloper)
