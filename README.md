@@ -1,4 +1,4 @@
-# ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690) [League Support](https://www.mediafire.com/file/u7gevii3tv5dbrw/LeagueSupport.rar/file) ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690)
+# ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690) [League Support](https://github.com/AugustoJDev/LeagueSupport/releases/download/leaguesupport/LeagueSupport.v3.0.3.rar) ![poppy](https://cdn.glitch.com/d5849b6d-b525-43f0-a87c-280ff619d588%2FWebp.net-resizeimage%20(2).png?v=1627787432690)
 League Support é um programa desenvolvido para ajudar jogadores que querem faciliar tarefas dentro do Client, sendo algumas delas: aceitar fila, dar fila e jogar novamente.
 
 ### 📁 Sessões
@@ -9,7 +9,7 @@ League Support é um programa desenvolvido para ajudar jogadores que querem faci
 <a name="download"></a>
 ### 🎁 Download
 Para realizar o download do programa, basta clicar no botão abaixo que você será redirecionado a página de download.<br/><br/>
-[<img src="https://www.atepi.com.br/wp-content/uploads/2019/04/bot%C3%A3o-download.png">](https://youtube.com/)
+[<img src="https://media.discordapp.net/attachments/873959321376018462/1017675895311433768/ba4a7dbf53d17b6f4ff136f976b36501-download-orange-button_1.png">](https://github.com/AugustoJDev/LeagueSupport/releases/download/leaguesupport/LeagueSupport.v3.0.3.rar)
 
 <a name="features"></a>
 ### 📜 Features
