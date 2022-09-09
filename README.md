@@ -25,7 +25,7 @@ Para realizar o download do programa, basta clicar no botão abaixo que você se
 ![](https://cdn.discordapp.com/attachments/873959321376018462/897906295196225566/WinchesterDev.gif)
 
 <a name="ads"></a>
-### ⚠ Remover ADS
-Deseja remover os anúncios que aparecem ao abrir o programa? Realize um donate acima de R$10,00 que a versão sem os anúncios será disponibilizada para você. 
+### ⚠ Seja um Doador
+Caso queira apoiar esse projeto financeiramente, considere nos apoiar com qualquer quantia! Ficaremos bastante agradecidos e continuaremos com todo prazer levando esse projeto para frente.
 
 [<img src="https://i.imgur.com/h6CM9tR.jpg">](https://app.picpay.com/user/winchesterdeveloper)
