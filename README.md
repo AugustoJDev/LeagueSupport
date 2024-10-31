@@ -31,4 +31,4 @@ To download the program, simply click the button below and you will be redirecte
 ### ⚠ Be a Donor
 If you wish to support this project financially, consider donating any amount! We will be very grateful and will continue to happily carry this project forward.
 
-[![Donate](https://i.imgur.com/h6CM9tR.jpg)](https://app.picpay.com/user/winchesterdeveloper)
+[![Donate](https://i.imgur.com/h6CM9tR.jpg)]([https://app.picpay.com/user/winchesterdeveloper](https://www.paypal.com/donate/?business=DAPMXVUCLW7QE&no_recurring=0&currency_code=USD))
